@@ -219,7 +219,7 @@
     <h2>Important installer details:</h2>
     <ol>
         <li>
-        This page has download links for two variants of the Redempton MUSHclient Package installer.<br> The only difference between them is that, if a world file is not already present, the one called the "non-visual base" installer initially loads a different default set of plugins in the default Redemption world file, eschewing graphical plugins that are incompatible with text to speech interaction. It still loads the mapper plugin, just with the visual map display hidden.
+        This page has download links for two variants of the Redemption MUSHclient Package installer.<br> The only difference between them is that, if a world file is not already present, the one called the "non-visual base" installer initially loads a different default set of plugins in the default Redemption world file, eschewing graphical plugins that are incompatible with text to speech interaction. It still loads the mapper plugin, just with the visual map display hidden.
         </li>
         <li>
         These installers do not overwrite your existing Redemption.db mapper database file, Redemption.mcl world file, or plugin state files, so you no longer need to do any of the old manual file edits, imports, or copies to complete an upgrade. <em style="color:darkgreen">You can just install over the same location as your previous Redemption MUSHclient install and that's it.</em> If you're concerned about accidents, you can always make a backup copy of your whole MUSHclient folder first.
